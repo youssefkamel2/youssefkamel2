@@ -50,8 +50,4 @@ If you’d like to collaborate or discuss backend development, feel free to reac
 
 ---
 
-![snake gif](https://github.com/youssefkamel2/youssefkamel2/blob/output/github-contribution-grid-snake.gif)
-
----
-
 ⭐ **"Clean code is not just about syntax — it’s about clarity, logic, and purpose."**
